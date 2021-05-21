@@ -1,0 +1,23 @@
+version: '3'
+services:
+  jupyterlab:
+    build: ./docker/jupyterlab
+    ports:
+      - "6543:8888"
+    volumes: 
+      - ./notebooks:/home/jovyan/work/notebooks
+      - ./pyscripts:/home/jovyan/work/pyscripts
+      - ./metadata:/home/jovyan/work/metadata
+      - ./data:/home/jovyan/work/data
+    user: root
+    environment:
+      - PYTHONPATH=/home/jovyan/work:$PYTHONPATH
+    command: jupyter lab --no-browser --allow-root
+
+  mapping:
+    build: ./docker/mapping
+    volumes:
+      - ./data:/data
+      - ./scripts:/scripts
+
+
