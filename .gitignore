@@ -1,3 +1,7 @@
+# IUPred2a is licensed and therefore cannot be redistributed
+pyscripts/iupred2a_lib_mod.py
+pyscripts/iupred2a_data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

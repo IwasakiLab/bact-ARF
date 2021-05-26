@@ -10,11 +10,13 @@ from .config import path2
 
 class Metadata:
     def __init__(self):
-        self.__asm_all   = None
-        self.__asm_inuse = None
-        self.__tax_all   = None
-        self.__tax_inuse = None
-        self.__acc       = None
+        self.__asm_all       = None
+        self.__asm_inuse     = None
+        self.__tax_all       = None
+        self.__tax_inuse     = None
+        self.__taxrank_inuse = None
+        self.__bac120_tree   = None
+        self.__acc           = None
         
     @property
     def asm_all(self):
@@ -40,8 +42,23 @@ class Metadata:
     @property
     def tax_inuse(self):
         if self.__tax_inuse is None:
-            self.__tax_inuse = pd.read_pickle(path2.metadata/'NCBI_asm_inuse.pkl.bz2')
+            self.__tax_inuse = pd.read_pickle(path2.metadata/'GTDB_taxonomy_inuse.pkl.bz2')
         return self.__tax_inuse
+    
+    @property
+    def taxrank_inuse(self):
+        if self.__taxrank_inuse is None:
+            rank = ['domain','phylum','class','order','family','genus']
+            self.__taxrank_inuse = self.tax_inuse['GTDB taxonomy'].str.split(';',expand=True).rename(
+                columns=dict(enumerate(rank))
+            ).assign(species=self.tax_inuse['GTDB species']).sort_values(by=rank)
+        return self.__taxrank_inuse
+    
+    @property
+    def bac120_tree(self):
+        if self.__bac120_tree is None:
+            self.__bac120_tree = pd.read_pickle(path2.metadata/'bac120_r202.tree.pkl.bz2')
+        return self.__bac120_tree
     
     @property
     def acc(self):
