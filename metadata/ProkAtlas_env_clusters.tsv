@@ -1,0 +1,116 @@
+env_category	level1	level2	level3
+bovine_gut	host_assoc	Animal	Animal_gut
+chicken_gut	host_assoc	Animal	Animal_gut
+feces	host_assoc	Animal	Animal_gut
+fish_gut	host_assoc	Animal	Animal_gut
+gut	host_assoc	Animal	Animal_gut
+human_gut	host_assoc	Animal	Animal_gut
+insect_gut	host_assoc	Animal	Animal_gut
+mouse_gut	host_assoc	Animal	Animal_gut
+pig_gut	host_assoc	Animal	Animal_gut
+rat_gut	host_assoc	Animal	Animal_gut
+termite_gut	host_assoc	Animal	Animal_gut
+human_skin	host_assoc	Animal	Animal_surface
+skin	host_assoc	Animal	Animal_surface
+human_bile	host_assoc	Animal	Animal_secretion
+human_blood	host_assoc	Animal	Animal_secretion
+human_oral	host_assoc	Animal	Animal_secretion
+human_reproductive_system	host_assoc	Animal	Animal_secretion
+oral	host_assoc	Animal	Animal_secretion
+annelid	host_assoc	Animal	Ambiguous
+ant	host_assoc	Animal	Ambiguous
+bat	host_assoc	Animal	Ambiguous
+bird	host_assoc	Animal	Ambiguous
+bovine	host_assoc	Animal	Ambiguous
+coral	host_assoc	Animal	Ambiguous
+crab	host_assoc	Animal	Ambiguous
+crustacean	host_assoc	Animal	Ambiguous
+human	host_assoc	Animal	Ambiguous
+human_eye	host_assoc	Animal	Ambiguous
+human_lung	host_assoc	Animal	Ambiguous
+insect	host_assoc	Animal	Ambiguous
+invertebrate	host_assoc	Animal	Ambiguous
+mosquito	host_assoc	Animal	Ambiguous
+oyster	host_assoc	Animal	Ambiguous
+sea_squirt	host_assoc	Animal	Ambiguous
+sponge	host_assoc	Animal	Ambiguous
+tick	host_assoc	Animal	Ambiguous
+leaf	host_assoc	Plant	Plant_surface
+phyllosphere	host_assoc	Plant	Plant_surface
+pollen	host_assoc	Plant	Plant_rhizosphere
+root	host_assoc	Plant	Plant_secretion
+algae	host_assoc	Plant	Ambiguous
+endophyte	host_assoc	Plant	Ambiguous
+lichen	host_assoc	Plant	Ambiguous
+moss	host_assoc	Plant	Ambiguous
+plant	host_assoc	Plant	Ambiguous
+fungus	host_assoc	Fungus	Ambiguous
+epibiont	host_assoc	Ambiguous	
+fossil	host_assoc	Ambiguous	
+parasite	host_assoc	Ambiguous	
+symbiont	host_assoc	Ambiguous	
+viral	host_assoc	Ambiguous	
+activated_sludge	host_free	Activated_Sludge_group	
+anaerobic_digester	host_free	Activated_Sludge_group	
+biofilm	host_free	Activated_Sludge_group	
+bioreactor	host_free	Activated_Sludge_group	
+bioreactor_sludge	host_free	Activated_Sludge_group	
+landfill	host_free	Activated_Sludge_group	
+sludge	host_free	Activated_Sludge_group	
+wastewater	host_free	Activated_Sludge_group	
+air	host_free	Air_group	
+cave	host_free	Air_group	
+fermentation	host_free	Air_group	
+food_fermentation	host_free	Air_group	
+indoor	host_free	Air_group	
+urban	host_free	Air_group	
+food	host_free	Freshwater_group	
+food_production	host_free	Freshwater_group	
+freshwater	host_free	Freshwater_group	
+hypersaline_lake	host_free	Freshwater_group	
+lake_water	host_free	Freshwater_group	
+mixed_culture	host_free	Freshwater_group	
+salt_lake	host_free	Freshwater_group	
+estuary	host_free	Sediment_group	
+hot_springs	host_free	Sediment_group	
+marine_sediment	host_free	Sediment_group	
+salt_marsh	host_free	Sediment_group	
+sediment	host_free	Sediment_group	
+wetland	host_free	Sediment_group	
+compost	host_free	Soil_group	
+hypolithon	host_free	Soil_group	
+peat	host_free	Soil_group	
+permafrost	host_free	Soil_group	
+rhizosphere	host_free	Soil_group	
+rice_paddy	host_free	Soil_group	
+root_associated_fungus	host_free	Soil_group	
+soil	host_free	Soil_group	
+aquifer	host_free	Subsurface_group	
+groundwater	host_free	Subsurface_group	
+mine_tailings	host_free	Subsurface_group	
+subsurface	host_free	Subsurface_group	
+biosolids	host_free	Seawater_group	
+glacier	host_free	Seawater_group	
+hydrocarbon	host_free	Seawater_group	
+hydrothermal_vent	host_free	Seawater_group	
+marine	host_free	Seawater_group	
+microbial_mat	host_free	Seawater_group	
+aquatic	host_free	Unclassifed	
+beach_sand	host_free	Unclassifed	
+biofilter	host_free	Unclassifed	
+biogas_fermenter	host_free	Unclassifed	
+freshwater_sediment	host_free	Unclassifed	
+halite	host_free	Unclassifed	
+microbial_fuel_cell	host_free	Unclassifed	
+oil_field	host_free	Unclassifed	
+rock	host_free	Unclassifed	
+rock_porewater	host_free	Unclassifed	
+seawater	host_free	Unclassifed	
+surface	host_free	Unclassifed	
+money	host_free	Unclassifed	
+paper_pulp	host_free	Unclassifed	
+plastic	host_free	Unclassifed	
+stromatolite	host_free	Unclassifed	
+terrestrial	host_free	Unclassifed	
+activated_carbon	host_free	Unclassifed	
+mine_drainage	host_free	Unclassifed	
