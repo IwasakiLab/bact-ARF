@@ -20,4 +20,22 @@ services:
       - ./data:/data
       - ./scripts:/scripts
 
+  blast:
+    image: ncbi/blast:2.11.0
+    volumes:
+      - ./data:/data
+      - ./scripts:/scripts
+
+  kofamscan:
+    build: ./docker/kofamscan
+    volumes:
+      - ./data:/data
+      - ./scripts:/scripts
+      - /nfs_share/yamanouchi/kofamscan210324:/db
+
+  gtdbtk:
+    image: ecogenomic/gtdbtk:1.5.0
+    volumes:
+      - ./data:/data
+      - /nfs_share/yamanouchi/gtdb/release202:/refdata
 
