@@ -1,0 +1,6 @@
+reference_assembly	species_code	scientific_name	tax_id	ftp_path
+GCF_000009765.2	Save	Streptomyces avermitilis MA-4680 = NBRC 14893	227882	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/009/765/GCF_000009765.2_ASM976v2
+GCF_005519465.1	Scla	Streptomyces clavuligerus	1901	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/005/519/465/GCF_005519465.1_ASM551946v1
+GCA_001443625.1	Sven	Streptomyces venezuelae	54571	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/443/625/GCA_001443625.1_ASM144362v1
+GCF_003932715.1	Stsu	Streptomyces tsukubensis	83656	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/932/715/GCF_003932715.1_ASM393271v1
+GCF_000739105.1	Sliv	Streptomyces lividans TK24	457428	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/739/105/GCF_000739105.1_ASM73910v1

@@ -18,6 +18,7 @@ services:
     build: ./docker/mapping
     volumes:
       - ./data:/data
+      - ./metadata:/metadata
       - ./scripts:/scripts
 
   blast:
