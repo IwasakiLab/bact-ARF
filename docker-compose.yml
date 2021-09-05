@@ -40,3 +40,8 @@ services:
       - ./data:/data
       - /nfs_share/yamanouchi/gtdb/release202:/refdata
 
+  sonicparanoid:
+    build: ./docker/sonicparanoid
+    volumes:
+      - ./data:/data
+
