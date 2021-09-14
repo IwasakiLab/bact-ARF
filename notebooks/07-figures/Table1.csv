@@ -1,0 +1,101 @@
+,rho,definition
+K14162,0.6391147720734012,error-prone DNA polymerase [EC:2.7.7.7]
+K00344,0.6328782768519239,NADPH:quinone reductase [EC:1.6.5.5]
+K01692,0.6208705049360008,enoyl-CoA hydratase [EC:4.2.1.17]
+K05524,0.6076442031370799,ferredoxin
+K01496,0.6023899638888576,phosphoribosyl-AMP cyclohydrolase [EC:3.5.4.19]
+K14998,0.5961906975963753,surfeit locus 1 family protein
+K05838,0.595265274222326,putative thioredoxin
+K01214,0.5843968431051448,isoamylase [EC:3.2.1.68]
+K12510,0.5842321458533775,tight adherence protein B
+K06980,0.5820720454378994,tRNA-modifying protein YgfZ
+K01011,0.5803099868215967,thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]
+K10563,0.572591810831414,formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18]
+K00982,0.5672822637979051,[glutamine synthetase] adenylyltransferase / [glutamine synthetase]-adenylyl-L-tyrosine phosphorylase [EC:2.7.7.42 2.7.7.89]
+K07157,0.5669288225485558,uncharacterized protein
+K02283,0.5663781776402177,pilus assembly protein CpaF [EC:7.4.2.8]
+K03574,0.565144269978686,8-oxo-dGTP diphosphatase [EC:3.6.1.55]
+K16147,0.5604398082192051,starch synthase (maltosyl-transferring) [EC:2.4.99.16]
+K01187,0.5590581388044858,alpha-glucosidase [EC:3.2.1.20]
+K02274,0.558091648605915,cytochrome c oxidase subunit I [EC:7.1.1.9]
+K12503,0.5544478522256654,short-chain Z-isoprenyl diphosphate synthase [EC:2.5.1.68]
+K00332,0.5541290849195285,NADH-quinone oxidoreductase subunit C [EC:7.1.1.2]
+K06044,0.5532122325030091,(1->4)-alpha-D-glucan 1-alpha-D-glucosylmutase [EC:5.4.99.15]
+K14267,0.5526696009015734,N-succinyldiaminopimelate aminotransferase [EC:2.6.1.17]
+K01426,0.5499177932640849,amidase [EC:3.5.1.4]
+K00697,0.5495403434788275,trehalose 6-phosphate synthase [EC:2.4.1.15 2.4.1.347]
+K22934,0.5483231727411028,"alpha,alpha-trehalase [EC:3.2.1.28]"
+K18955,0.5471054653708196,"WhiB family transcriptional regulator, redox-sensing transcriptional regulator"
+K01236,0.5465216255424243,maltooligosyltrehalose trehalohydrolase [EC:3.2.1.141]
+K02351,0.5437536452608522,putative membrane protein
+K05602,0.5436632573247817,histidinol-phosphatase [EC:3.1.3.15]
+K08300,0.5427138883070817,ribonuclease E [EC:3.1.26.12]
+K07503,0.542109909565475,endonuclease [EC:3.1.-.-]
+K07776,0.5401687645614123,"two-component system, OmpR family, response regulator RegX3"
+K03636,0.5398663587622929,sulfur-carrier protein
+K08372,0.5386797000670293,putative serine protease PepD [EC:3.4.21.-]
+K13787,0.5370982519427391,"geranylgeranyl diphosphate synthase, type I [EC:2.5.1.1 2.5.1.10 2.5.1.29]"
+K05522,0.5360396507780085,endonuclease VIII [EC:3.2.2.- 4.2.99.18]
+K03727,0.5343773706968439,ATP-dependent RNA helicase HelY [EC:3.6.4.-]
+K00817,0.5336946408273572,histidinol-phosphate aminotransferase [EC:2.6.1.9]
+K22297,0.5334418673341422,"Fur family transcriptional regulator, stress-responsive regulator"
+K18476,0.5317083045607739,"TetR/AcrR family transcriptional regulator, tetracycline repressor protein"
+K01681,0.5314237243503319,aconitate hydratase [EC:4.2.1.3]
+K06117,0.5313869510813801,glycerol-1-phosphatase [EC:3.1.3.21]
+K07654,0.5311229284776501,"two-component system, OmpR family, sensor histidine kinase MtrB [EC:2.7.13.3]"
+K03724,0.529843569181138,ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]
+K07670,0.5297490445332922,"two-component system, OmpR family, response regulator MtrA"
+K13633,0.5288145685583306,"AraC family transcriptional regulator, transcriptional activator FtrA"
+K03889,0.5287528229837754,ubiquinol-cytochrome c reductase cytochrome c subunit
+K03890,0.5285325668946047,ubiquinol-cytochrome c reductase iron-sulfur subunit
+K13572,0.5284103151044511,proteasome accessory factor B
+K03891,0.5283716722357061,ubiquinol-cytochrome c reductase cytochrome b subunit
+K24017,0.5282461114753388,phosphoribosyl isomerase A [EC:5.3.1.16 5.3.1.24]
+K07768,0.5278194544881816,"two-component system, OmpR family, sensor histidine kinase SenX3 [EC:2.7.13.3]"
+K20469,0.5276471477849753,putative heme transporter
+K13573,0.5275397563080436,proteasome accessory factor C
+K00796,0.5272624300670112,dihydropteroate synthase [EC:2.5.1.15]
+K01554,0.5270966857140796,8-oxo-dGDP phosphatase [EC:3.6.1.58]
+K08744,0.5260811067075265,cardiolipin synthase (CMP-forming) [EC:2.7.8.41]
+K01971,0.5258086871536514,bifunctional non-homologous end joining protein LigD [EC:6.5.1.1]
+K09796,0.5247948698646069,periplasmic copper chaperone A
+K23842,0.5244903029360342,NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K01897,0.524485461447196,long-chain acyl-CoA synthetase [EC:6.2.1.3]
+K14161,0.5222213931636487,protein ImuB
+K11414,0.5211402517052368,NAD+-dependent protein deacetylase sirtuin 4 [EC:2.3.1.286]
+K00626,0.5211333788454005,acetyl-CoA C-acetyltransferase [EC:2.3.1.9]
+K05343,0.5202778009761897,maltose alpha-D-glucosyltransferase / alpha-amylase [EC:5.4.99.16 3.2.1.1]
+K11611,0.5196137335034456,meromycolic acid enoyl-[acyl-carrier-protein] reductase [EC:1.3.1.118]
+K00529,0.5180493874381511,3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin reductase component [EC:1.18.1.3]
+K02483,0.5177641238857615,"two-component system, OmpR family, response regulator"
+K00059,0.5171910593768254,3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]
+K01596,0.5145615799132811,phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32]
+K18917,0.5144821803487043,mycoredoxin [EC:1.20.4.3]
+K18455,0.513838411796815,mycothiol S-conjugate amidase [EC:3.5.1.115]
+K23980,0.5126001743660923,cysteinylglycine-S-conjugate dipeptidase [EC:3.4.13.23]
+K01087,0.5114475281482245,trehalose 6-phosphate phosphatase [EC:3.1.3.12]
+K06048,0.5111305742582153,glutamate---cysteine ligase / carboxylate-amine ligase [EC:6.3.2.2 6.3.-.-]
+K18290,0.510575249354168,itaconyl-CoA hydratase [EC:4.2.1.56]
+K15526,0.5100221064683709,L-cysteine:1D-myo-inositol 2-amino-2-deoxy-alpha-D-glucopyranoside ligase [EC:6.3.1.13]
+K15520,0.5095960017202978,mycothiol synthase [EC:2.3.1.189]
+K01915,0.5091183406453612,glutamine synthetase [EC:6.3.1.2]
+K02484,0.5082772193240103,"two-component system, OmpR family, sensor kinase [EC:2.7.13.3]"
+K00336,0.5080805249112925,NADH-quinone oxidoreductase subunit G [EC:7.1.1.2]
+K00528,0.506428810816278,ferredoxin/flavodoxin---NADP+ reductase [EC:1.18.1.2 1.19.1.1]
+K10007,0.5063421659894787,glutamate transport system permease protein
+K01724,0.5057090652283442,4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96]
+K00163,0.5053353980395496,pyruvate dehydrogenase E1 component [EC:1.2.4.1]
+K09927,0.5047844137839238,uncharacterized protein
+K13571,0.5033693875651812,proteasome accessory factor A [EC:6.3.1.19]
+K13570,0.5027178480020849,prokaryotic ubiquitin-like protein Pup
+K09791,0.5014038014123307,uncharacterized protein
+K13527,0.5000994618855078,proteasome-associated ATPase
+K06020,0.5000926925885846,energy-dependent translational throttle protein EttA
+K12234,0.4987648649889603,coenzyme F420-0:L-glutamate ligase / coenzyme F420-1:gamma-L-glutamate ligase [EC:6.3.2.31 6.3.2.34]
+K09009,0.4982241270793687,uncharacterized protein
+K02279,0.49800296852142684,pilus assembly protein CpaB
+K20814,0.49771221343215544,Pup amidohydrolase [EC:3.5.1.119]
+K05275,0.4976224481268068,pyridoxine 4-dehydrogenase [EC:1.1.1.65]
+K02276,0.4975220192404532,cytochrome c oxidase subunit III [EC:7.1.1.9]
+K08683,0.49715187539234545,3-hydroxyacyl-CoA dehydrogenase / 3-hydroxy-2-methylbutyryl-CoA dehydrogenase [EC:1.1.1.35 1.1.1.178]
+K01069,0.49636855347501285,hydroxyacylglutathione hydrolase [EC:3.1.2.6]
