@@ -8,13 +8,16 @@ A series of systematic analyses on Alternative Reading Frames (ARFs) of bacteria
 - All the analyses with Python were performed on jupyter lab, which was built under a docker-compose service called 'jupyterlab'.
   - Execute `docker-compose up -d jupyterlab` to activate the environment.
   - The port number on the host side is set to 6543 in `docker-compose.yml`. Change it according to your environment.
-  - Run the following command to list the running instance of jupyter lab: `docker-compose exec jupyterlab jupyter lab list`. This will display the access link to the jupyter server as "http://0.0.0.0:8888/?token=<access token> :: /home/jovyan".
-  - Replace "0.0.0.0:8888" with the appropriate IP and port number (e.g. "localhost:6543"), and type the link into a browser such as Chrome.
+  - Run the following command to list the running instance of jupyter lab: `docker-compose exec jupyterlab jupyter lab list`. This will display the access link to the jupyter server as `http://0.0.0.0:8888/?token=<access token> :: /home/jovyan`.
+  - Replace `0.0.0.0:8888` with the appropriate IP and port number (e.g. `localhost:6543`), and type the link into a browser such as Chrome.
 - The instructions for dockers to run external tools can be found in the jupyter notebooks where the relevant analyses were performed. They can be found in `notebooks/`.
 
 ## Files
 
-- `data/` is a large directory that contains omics data downloaded from public databases and intermediate files of analyses. Since it is symbolically linked to the other disk, the content is not exposed to the repository.
+- `data/` is a large directory that contains omics data downloaded from public databases and intermediate files of analyses.
+  - Since it is symbolically linked to the other disk, the content is not exposed to the repository. 
+  - These data are available upon request to the authors. 
+  - The final processed data will be available through future updates.
 - `metadata/` is a directory that contains files describing the location of public data, additional information about the data, and so on. See `metadata/README.md` for more details.
 - `notebooks/` is the directory that contains all the analysis code (jupyter notebooks). See `notebooks/README.md` for more details.
 - `pyscripts/` is a directory where we place files to be imported when conducting Python analysis in notebooks. See `pyscripts/README.md` for more details.
